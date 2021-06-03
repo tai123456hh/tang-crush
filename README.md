@@ -10,9 +10,9 @@ Mở file config.js sửa nội dung theo mẫu
 const CONFIG = {
     introTitle: 'NGÀ à!',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao  cứ đi nhầm đường
+    Mà sao  cứ đi nhầm đường....
     Lạc vào tim e lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    Đằng sau chữ yêu đây... là thương`,
     btnIntro: 'hihi',
     title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy ',
@@ -20,11 +20,9 @@ const CONFIG = {
     btnNo: 'Không, Anh trai à :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
     btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    reply:' không yêu thì ráng yêu nhaaaa <33333333',
     mess: 'Tao biết mà 🥰. Y nhiều nhiều 😘😘',
-    messDesc: 'ráng đỗ nguyện vọng 3 nhé .',
+    messDesc: 'Ráng đỗ nguyện vọng 3 nhé .',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/profile.php?id=100037828690010
-}
-```
+    messLink: 'https://www.facebook.com/profile.php?id=100037828690
 
