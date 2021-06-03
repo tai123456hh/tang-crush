@@ -23,6 +23,6 @@ const CONFIG = {
     reply:' không yêu thì ráng yêu nhaaaa <33333333',
     mess: 'Tao biết mà 🥰. Yêu nhiều nhiều 😘😘',
     messDesc: 'Ráng đỗ nguyện vọng 3 nhé .',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Okiiiii lun nhaaaaaa <3',
     messLink: 'https://www.facebook.com/profile.php?id=100037828690
 
